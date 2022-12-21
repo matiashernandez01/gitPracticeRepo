@@ -11,5 +11,10 @@
         <operation>equals</operation>
         <value>Phone</value>
     </filters>
+    <filters>
+        <field>NAME</field>
+        <operation>equals</operation>
+        <value>Rose Gonzalez</value>
+    </filters>
     <label>NuevaListaCasos</label>
 </ListView>
